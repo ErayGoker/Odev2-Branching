@@ -1,1 +1,2 @@
-print("Git ve GitHub ile çalışıyorum!")
+print("Hello, GitHub!")
+print("Bu ana branch'teki ilk mesaj!")
